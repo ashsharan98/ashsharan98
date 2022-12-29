@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Ashutosh Sharan
 - 👀 I’m interested in backend web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Mobile - 9740153070. Email - ashsharan98@gmail.com
 
 <!---
 ashsharan98/ashsharan98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
